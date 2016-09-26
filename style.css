@@ -3,7 +3,7 @@ body {
 }
 
 .navbar .navbar-brand {
-    color: #ef4404;
+    color: #175e84;
 }
 .navbar .brand-name:hover {
     text-decoration: underline;
@@ -74,7 +74,7 @@ body {
 
 /* Progress Bar */
 
-.progress-bar-grey {
-    background-color: #f3f3f1;
+.progress-bar-black {
+    background-color: #D6E3E6;
     background-image: none;
 }
